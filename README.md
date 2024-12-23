@@ -38,13 +38,19 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by: RegisterNumber:*/
 
 
-**RTL realization**
+**RTL **
+
+![image](https://github.com/user-attachments/assets/950f37eb-78ad-405e-968e-048f7e2dd018)
+
+ ![Screenshot 2024-12-23 181925](https://github.com/user-attachments/assets/618bae77-3aba-4369-af53-150a25047732)
+
 
 **Output:**
 
-**RTL**
-
 **Timing Diagram**
+
+![image](https://github.com/user-attachments/assets/68053368-ca29-4baa-a3a6-3e7ff6dfb401)
+
 
 **Result:**
 
