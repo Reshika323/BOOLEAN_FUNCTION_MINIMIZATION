@@ -16,7 +16,15 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
+Boolean Algebra is a branch of algebra that deals with boolean values-true and false.It is
+fundamental to digital logic design and computer science,providing a mathamatical
+framework for describing logical operation and expressions.
+
 **Logic Diagram**
+
+![image](https://github.com/user-attachments/assets/2a488c7b-a516-4c67-98b1-c7b08ebccaa7)
+
+![image](https://github.com/user-attachments/assets/06ecfc84-a6de-47e9-9b96-c438b38321bb)
 
 **Procedure**
 
@@ -33,23 +41,34 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: M Reshika RegisterNumber: 24011491
 
+![image](https://github.com/user-attachments/assets/9067a303-1162-40f3-ab2d-342d843df535)
 
-**RTL **
+**Output:**
+
+**RTL**
+
+Boolean function minimization m1:
 
 ![image](https://github.com/user-attachments/assets/950f37eb-78ad-405e-968e-048f7e2dd018)
+
+Boolean function minimization m2:
 
  ![Screenshot 2024-12-23 181925](https://github.com/user-attachments/assets/618bae77-3aba-4369-af53-150a25047732)
 
 
-**Output:**
-
 **Timing Diagram**
 
-![image](https://github.com/user-attachments/assets/68053368-ca29-4baa-a3a6-3e7ff6dfb401)
+Boolean function minimization m1:
+
+![image](https://github.com/user-attachments/assets/868af46b-a4c1-4faf-a927-c290a6ecb79c)
+
+Boolean function minimization m2:
+
+![image](https://github.com/user-attachments/assets/556cbca6-b4b9-4b2f-a635-7f6c6c730084)
 
 
 **Result:**
