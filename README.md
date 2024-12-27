@@ -26,6 +26,14 @@ framework for describing logical operation and expressions.
 
 ![image](https://github.com/user-attachments/assets/06ecfc84-a6de-47e9-9b96-c438b38321bb)
 
+Boolean function minimization m1
+F1
+![image](https://github.com/user-attachments/assets/7187d16f-da44-43dc-9333-fcb2c0292948)
+
+ F2
+ ![image](https://github.com/user-attachments/assets/f08292f0-ee59-479b-8fdf-3bb85502ed0c)
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
