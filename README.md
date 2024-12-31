@@ -26,7 +26,7 @@ framework for describing logical operation and expressions.
 
 ![image](https://github.com/user-attachments/assets/06ecfc84-a6de-47e9-9b96-c438b38321bb)
 
-Boolean function minimization m1
+Boolean function minimization
 F1
 
 ![image](https://github.com/user-attachments/assets/7187d16f-da44-43dc-9333-fcb2c0292948)
