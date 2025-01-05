@@ -1,4 +1,3 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -78,7 +77,7 @@ Boolean function minimization F1:
 
 Boolean function minimization F2:
 
-![image](https://github.com/user-attachments/assets/556cbca6-b4b9-4b2f-a635-7f6c6c730084)
+![image](https://github.com/user-attachments/assets/0e6ebf9a-82d5-4d0d-a3d6-c1a1bfdcc24b)
 
 
 **Result:**
